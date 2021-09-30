@@ -1,5 +1,16 @@
 # Course-DDS4-FLAI
 
+'Dominando Data Science' (DDS) is a problem-solving course offered in 8 weeks by [FLAI](https://www.flai.com.br/). It includes a large range of topics and tools for students that are interested in pursuing a career in data science. Briefly, it comprises some of the skills for machine learning:
+
+- python 
+- linear regression
+- logistic regression
+- K-Nearest Neighbor (KNN) 
+- Tree Decision
+- Bagging
+- Random Forest
+- Hyperparameter Tuning
+
 
 ## Class 05
 
@@ -52,4 +63,4 @@ Bagging, Random Forest, Stratified K-Fold, accuracy/sensitivity/precision/balanc
  
  ## Class 12
  
- In this class, it was used data from the Titanic accident to predict passangers' probabilities of survival 
+In this class, it was used data from the Titanic accident to predict passangers' probabilities of survival. For this reason, it was applied the random forest model and the parameters were optimized by hyperparameter tuning.
