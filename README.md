@@ -2,9 +2,9 @@
 
 'Dominando Data Science' (DDS) is a problem-solving course offered in 8 weeks by [FLAI](https://www.flai.com.br/). It includes a large range of topics and tools for students that are interested in pursuing a career in data science. Briefly, it comprises some of the skills for machine learning:
 
-- python 
-- linear regression
-- logistic regression
+- Python 
+- Linear regression
+- Logistic regression
 - K-Nearest Neighbor (KNN) 
 - Tree Decision
 - Bagging
