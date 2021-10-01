@@ -26,8 +26,7 @@ which allows to work with data.frames, to make exploratory data analysis, etc.
 ## Class 07
 
 <div align="justify">
-In this class is developed the first machine learning model in the course. It has used health insurance data (categorical variables about smoking and gender, charges, bmi, etc.)
-and comprises exploratory analysis,
+In this class is developed the first machine learning model in the course. It has used health insurance data (categorical variables about smoking and gender, charges, bmi, etc.) to predict the insurance's charges and comprises exploratory analysis,
 data treatment, linear regression fitting, Mean Squared Error (MSE) and Mean Absolute Error (MAE) evaluation, Holdout Validation, and so on.
 </dev>
 
@@ -42,7 +41,7 @@ K-Nearest Neighbor (KNN) and Tree Decision models.
 
 
 <div align="justify">
-In this class it has still used the health insurance data, upgrading the last results by applying Logistic Regression and K-Fold Cross Validation.
+In this class it still has used the health insurance data, upgrading the last results by applying Logistic Regression and K-Fold Cross Validation.
 </dev>
 
 ## Class 10
